@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohtikaeli.beta-analytics.com/sitemap.xml
